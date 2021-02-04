@@ -26,3 +26,4 @@ forge*changelog.txt
 
 # Data Generator Cache
 /src/generated/resources/.cache
+logs
