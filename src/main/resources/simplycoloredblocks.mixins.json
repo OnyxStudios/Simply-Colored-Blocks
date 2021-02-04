@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.onyxstudios.simplycoloredblocks.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "simplycoloredblocks.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+	"MixinModelBakery"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

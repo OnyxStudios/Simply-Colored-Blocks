@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/OnyxStudios/Simply-Colored-Blocks/issues/"
+
+[[mods]]
+modId="simplycoloredblocks"
+version="${file.jarVersion}"
+displayName="Simply Colored Blocks"
+authors="abused_master"
+description='''
+All the colors you could ask for, as blocks!
+'''
+
+[[dependencies.simplycoloredblocks]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
